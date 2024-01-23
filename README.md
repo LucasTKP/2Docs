@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Saas 2Docs</h1>
+<p align="center">Este projeto é um sistema voltado para o meio contabil.</p> <br />
 
-## Getting Started
+### 🔗 Links:
+<a href="https://github.com/LucasTKP/2Docs">Projeto 2Docs</a></br>
+<a href="https://dashboard.2docs.app/">Deploy</a></br>
 
-First, run the development server:
+</br>
+</br>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### 💻 Projeto:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este projeto consiste em um Saas que auxilia contadores a realizar a troca de documentos com seus respectivos clientes, além disso, ele tem é um CRM que permite o cadastro de todos os clientes de um escritório de contabilidade.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<br /> <br />
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### 🎯 Objetivo:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Criar um sistema que facilite as atividades de um contador.
 
-## Learn More
+<br /> <br />
 
-To learn more about Next.js, take a look at the following resources:
+### ⚙️ Tecnologias:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next
+- Tailwind
+- Firebase
+- Node
+- GitHub
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+  <br /> <br />
 
-## Deploy on Vercel
+### 📷 Tela principal:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+https://github.com/LucasTKP/2Docs/assets/101598532/f8c74f5e-2353-4f56-8aee-1aca36c44cde
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# Teste
-# 2Docs
+<br />
