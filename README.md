@@ -31,8 +31,6 @@ Criar um sistema que facilite as atividades de um contador.
 
   <br /> <br />
 
-### 📷 Tela principal:
-
 https://github.com/LucasTKP/2Docs/assets/101598532/f8c74f5e-2353-4f56-8aee-1aca36c44cde
 
 <br />
